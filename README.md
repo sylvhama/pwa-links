@@ -51,8 +51,7 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 - [Gatsby](https://www.gatsbyjs.org/docs/add-offline-support-with-a-service-worker/)
 
 ### With Angular
-- [Angular service worker introduction
-S](https://angular.io/guide/service-worker-intro)
+- [Angular service worker introduction](https://angular.io/guide/service-worker-intro)
 
 ## [One last thing](https://www.youtube.com/watch?v=ZlE7dzoD6GA)
 By Steve Jobs
