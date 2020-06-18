@@ -41,10 +41,10 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 - [developers.google.com/web/showcase](https://developers.google.com/web/showcase/) more case studies
 
 ## Open-source projects
-- [https://github.com/GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) -  a game built for every device with a web browser (including feature phones!)
+- [https://github.com/GoogleChromeLabs/proxx](Proxx) -  a game built for every device with a web browser (including feature phones!)
 - [https://github.com/GoogleChromeLabs/sample-currency-converter](Material Money) - A sample currency conversion Progressive Web App
 - [https://github.com/GoogleChrome/devsummit](Chrome Dev Summit Conference Site)
-- [https://github.com/gatsbyjs/store.gatsbyjs.org] - The Gatsby store for swag and other Gatsby goodies
+- [https://github.com/gatsbyjs/store.gatsbyjs.org](Gatsby store)
 - [https://github.com/sylvhama/Workout](Workout) - training assistant
 
 ## Tools
