@@ -41,11 +41,11 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 - [developers.google.com/web/showcase](https://developers.google.com/web/showcase/) more case studies
 
 ## Open-source projects
-- [https://github.com/GoogleChromeLabs/proxx](Proxx) -  a game built for every device with a web browser (including feature phones!)
-- [https://github.com/GoogleChromeLabs/sample-currency-converter](Material Money) - A sample currency conversion Progressive Web App
-- [https://github.com/GoogleChrome/devsummit](Chrome Dev Summit Conference Site)
-- [https://github.com/gatsbyjs/store.gatsbyjs.org](Gatsby store)
-- [https://github.com/sylvhama/Workout](Workout) - training assistant
+- [Proxx](https://github.com/GoogleChromeLabs/proxx) -  a game built for every device with a web browser (including feature phones!)
+- [Material Money](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App
+- [Chrome Dev Summit Conference Site](https://github.com/GoogleChrome/devsummit)
+- [Gatsby store](https://github.com/gatsbyjs/store.gatsbyjs.org)
+- [Workout](https://github.com/sylvhama/Workout) - training assistant
 
 ## Tools
 - [PWABuilder](https://www.pwabuilder.com/) Quickly and easily turn your website into an app!
