@@ -41,6 +41,7 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 - [developers.google.com/web/showcase](https://developers.google.com/web/showcase/) more case studies
 
 ## Open-source projects
+- [Basic PWA Page](https://glitch.com/edit/#!/pwa?path=README.md) - Probably the simplest progressive web app, just to get you started.
 - [Proxx](https://github.com/GoogleChromeLabs/proxx) -  a game built for every device with a web browser (including feature phones!)
 - [Material Money](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App
 - [Chrome Dev Summit Conference Site](https://github.com/GoogleChrome/devsummit)
