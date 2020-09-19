@@ -57,6 +57,7 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 ### With React
 - [Create React App](https://create-react-app.dev/docs/making-a-progressive-web-app/)
 - [Gatsby](https://www.gatsbyjs.org/docs/add-offline-support-with-a-service-worker/)
+- [Next.js](https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app)
 
 ### With Angular
 - [Angular service worker introduction](https://angular.io/guide/service-worker-intro)
