@@ -28,7 +28,7 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 
 
 ## Articles
-- [Progressive Web Apps in 2020](https://medium.com/@firt/progressive-web-apps-in-2020-c15018c9931c) by Maximiliano Firtman
+- [Progressive Web Apps in 2021](https://firt.dev/pwa-2021/) by Maximiliano Firtman
 - [PWA: Progressive Web All-the-things
 ](https://paul.kinlan.me/pwa-progressive-web-all-the-things/) by Paul Kinlan
 - [Service Worker, what are you ?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65) by Mariko Kosaka
