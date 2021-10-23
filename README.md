@@ -9,6 +9,10 @@ A list of ressources about Progressive Web Apps
 
 > In this collection, you'll learn what makes a Progressive Web App special, how they can affect your business, and how to build them.
 
+- [docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)
+
+> Progressive Web Apps (PWAs) provide access to open web technologies for cross-platform interoperability and provide your users with an app-like experience customized for their devices.
+
 - [developer.mozilla.org/en-US/docs/Web/Progressive_web_apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 > Progressive Web Apps are web apps that use emerging web browser APIs and features along with traditional progressive enhancement strategy to bring a native app-like user experience to cross-platform web applications.
