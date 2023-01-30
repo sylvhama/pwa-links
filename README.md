@@ -66,8 +66,8 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 ### With Angular
 - [Angular service worker introduction](https://angular.io/guide/service-worker-intro)
 
-### With Vue
-- [@vue/cli-plugin-pwa](https://cli.vuejs.org/core-plugins/pwa.html)
+### With Vite
+- [vite-plugin-pwa](https://vite-pwa-org.netlify.app/)
 
 ## One last thing
 Back in 2007 Steve Jobs was already talking about PWA at [Apple’s Worldwide Developers Conference](https://www.youtube.com/watch?v=ZlE7dzoD6GA).
