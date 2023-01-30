@@ -49,7 +49,6 @@ Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/) by Googl
 - [Proxx](https://github.com/GoogleChromeLabs/proxx) -  a game built for every device with a web browser (including feature phones!)
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) - image compression web app
 - [Material Money](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App
-- [Chrome Dev Summit Conference Site](https://github.com/GoogleChrome/devsummit)
 - [Gatsby store](https://github.com/gatsbyjs/store.gatsbyjs.org)
 - [Workout](https://github.com/sylvhama/Workout) - training assistant
 
